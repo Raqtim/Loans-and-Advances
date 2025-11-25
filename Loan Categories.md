@@ -13,9 +13,13 @@ One-off facility:
 - Generally used for working capital purposes.
 - It is characterized by flexibility in withdrawals and repayments, but it must be fully adjusted by a specified expiry date.
 
-#### Renewal Requirement:
-If a continuous loan is not repaid or renewed by its expiry date, it becomes past due/overdue from the next day.
-Banks must renew the limit before expiry to keep the loan unclassified.
+| Renewal Requirement: |
+| :--- |
+| - If a continuous loan is not repaid or renewed by its expiry date, it becomes past due/overdue from the next day. |
+| - Banks must renew the limit before expiry to keep the loan unclassified. |
 
-Ex. - Cash Credit (Hypo/Pledge), Overdraft, etc.
+
+| Ex. |  - Cash Credit (Hypo/Pledge), Overdraft, etc. |
+| :--- | ---: |
 ### B. Demand Loan:
+
