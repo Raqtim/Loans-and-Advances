@@ -8,7 +8,7 @@ One-off facility:
 - No revolving nature exists.
 
 ## Categories of Loans and Advances:
-### Continuous Loan (A revolving credit facility):
+### A. Continuous Loan (a revolving credit facility):
 - A type of credit facility that allows multiple transactions within a sanctioned limit
 - Generally used for working capital purposes.
 - It is characterized by flexibility in withdrawals and repayments, but it must be fully adjusted by a specified expiry date.
@@ -18,4 +18,4 @@ If a continuous loan is not repaid or renewed by its expiry date, it becomes pas
 Banks must renew the limit before expiry to keep the loan unclassified.
 
 Ex. - Cash Credit (Hypo/Pledge), Overdraft, etc.
-### Demand Loan:
+### B. Demand Loan:
