@@ -22,6 +22,16 @@
 ### B. Demand Loan: _(one-off facility)_
 - A type of credit facility that is repayable on demand by the Bank (lender)
 
+<table>
+  <tr>
+    <th colspan="2">1st Row: Single Merged Column</th>
+  </tr>
+  <tr>
+    <td>2nd Row: Column 1</td>
+    <td>2nd Row: Column 2</td>
+  </tr>
+</table>
+
 | Ex. |
 |- Post Import Financing |
 |- Payment against Document | In Bangladesh banking practice, PAD often transitions into **LTR** (Loan Against Trust Receipt) or **LIM** (Loan Against Imported Merchandise) depending on the situation. |
