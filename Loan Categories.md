@@ -1,14 +1,14 @@
-### Definitions:
-Revolving Facility:
+### **Definitions:**
+a) Revolving Facility: _(renewable)_
 - Borrowers can withdraw and repay multiple times within the sanctioned limit.
 - It is designed for ongoing working capital needs, not for a single disbursement.
 
-One-off facility:
+b) One-off facility: _(not renewable)_
 - The amount is disbursed once and repaid according to agreed terms.
 - No revolving nature exists.
 
-## Categories of Loans and Advances:
-### A. Continuous Loan (a revolving credit facility):
+## **Categories of Loans and Advances:**
+### A. Continuous Loan: _(revolving credit facility)_
 - A type of credit facility that allows multiple transactions within a sanctioned limit
 - Generally used for working capital purposes.
 - It is characterized by flexibility in withdrawals and repayments, but it must be fully adjusted by a specified expiry date.
@@ -19,5 +19,5 @@ One-off facility:
 
 | Ex. |  - Cash Credit (Hypo/Pledge), Overdraft, etc. |
 | :--- | ---: |
-### B. Demand Loan:
-
+### B. Demand Loan: _(one-off facility)_
+- A type of credit facility that is repayable on demand by the Bank (lender)
