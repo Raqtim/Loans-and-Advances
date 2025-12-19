@@ -1,9 +1,9 @@
 ### **Definitions:**
-a) Revolving Facility: _(renewable)_
+**a) Revolving Facility:** _(renewable)_
 - Borrowers can withdraw and repay multiple times within the sanctioned limit.
 - It is designed for ongoing working capital needs, not for a single disbursement.
 
-b) One-off facility: _(not renewable)_
+**b) One-off facility:** _(not renewable)_
 - The amount is disbursed once and repaid according to agreed terms.
 - No revolving nature exists.
 
